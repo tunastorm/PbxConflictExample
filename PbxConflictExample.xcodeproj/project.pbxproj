@@ -94,8 +94,8 @@
 		BC9873C72CB4CCDF00D621E1 /* PbxConflictExample */ = {
 			isa = PBXGroup;
 			children = (
+				BC9873F22CB4D0CC00D621E1 /* test */,
 				BC9873C82CB4CCDF00D621E1 /* PbxConflictExampleApp.swift */,
-				BC9873CA2CB4CCDF00D621E1 /* ContentView.swift */,
 				BC9873CC2CB4CCE000D621E1 /* Assets.xcassets */,
 				BC9873CE2CB4CCE000D621E1 /* Preview Content */,
 			);
@@ -125,6 +125,14 @@
 				BC9873E52CB4CCE000D621E1 /* PbxConflictExampleUITestsLaunchTests.swift */,
 			);
 			path = PbxConflictExampleUITests;
+			sourceTree = "<group>";
+		};
+		BC9873F22CB4D0CC00D621E1 /* test */ = {
+			isa = PBXGroup;
+			children = (
+				BC9873CA2CB4CCDF00D621E1 /* ContentView.swift */,
+			);
+			path = test;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
