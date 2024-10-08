@@ -14,12 +14,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-<<<<<<<< HEAD:PbxConflictExample/test/ContentView.swift
-            Text("Hello, test")
-========
             Text("Hello, conflict!")
->>>>>>>> df28c80 (conflict 폴더 계층구조 변경):PbxConflictExample/conflict/ContentView.swift
-        }
         .padding()
     }
     
